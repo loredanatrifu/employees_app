@@ -1,0 +1,6 @@
+First Name           Last Name            Age   Job        Salary     Department name
+-----------------------------------------------
+Loredana             Trifu                   34  Developer       1500              IT
+Ion                  Popescu                 50  Economist       1000      Accounting
+Elena                Sora                    27  Recruiter       1700              HR
+Razvan               Moga                    48 Project Manager       1200      Management
